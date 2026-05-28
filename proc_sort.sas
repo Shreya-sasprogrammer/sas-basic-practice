@@ -1,3 +1,3 @@
-proc sort data=student;
+proc sort data=students;
     by id;
 run;

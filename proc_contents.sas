@@ -1,2 +1,2 @@
-proc contents data=student;
+proc contents data=students;
 run;
