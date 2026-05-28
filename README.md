@@ -10,4 +10,13 @@ Topics:
 - PROC MEANS
 - PROC FREQ
 
+## Skills Practiced
+- Data creation
+- Data reporting
+- Basic procedures
+- SAS syntax
+
+## Output
+Sample output screenshots are included in the output folder.
+
 
